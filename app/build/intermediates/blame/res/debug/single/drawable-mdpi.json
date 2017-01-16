@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\danic\\Desktop\\erty\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\massmouse.png",
+        "source": "C:\\Users\\danic\\Desktop\\erty\\app\\src\\main\\res\\drawable-mdpi\\massmouse.png"
+    },
+    {
+        "merged": "C:\\Users\\danic\\Desktop\\erty\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\masscheese.png",
+        "source": "C:\\Users\\danic\\Desktop\\erty\\app\\src\\main\\res\\drawable-mdpi\\masscheese.png"
+    },
+    {
+        "merged": "C:\\Users\\danic\\Desktop\\erty\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\danic\\Desktop\\erty\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danic\\Desktop\\erty\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\play.png",
+        "source": "C:\\Users\\danic\\Desktop\\erty\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    }
+]

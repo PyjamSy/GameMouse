@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\danic\Desktop\erty\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ff394ed424973b93486975f450c1bd2864e06dd9">
+        <dex dex="C:\Users\danic\Desktop\erty\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32e873a740b6963cb45b7416107c1e89c72eb411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danic\Desktop\erty\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd27ff8597dbc4970e8c329a68088ecca08f0301">
+        <dex dex="C:\Users\danic\Desktop\erty\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_71fb6faff235b7b1a79fe4e5d0bf1930e5902393\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Mon Dec 12 21:58:36 MSK 2016
+base.0=C\:\\Users\\danic\\Desktop\\erty\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_32e873a740b6963cb45b7416107c1e89c72eb411
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\danic\\Desktop\\erty\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_71fb6faff235b7b1a79fe4e5d0bf1930e5902393\\classes.dex
+base.1=C\:\\Users\\danic\\Desktop\\erty\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_71fb6faff235b7b1a79fe4e5d0bf1930e5902393
+file.0=C\:\\Users\\danic\\Desktop\\erty\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_32e873a740b6963cb45b7416107c1e89c72eb411\\classes.dex
